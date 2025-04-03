@@ -4,6 +4,8 @@
 
 Welcome to my first Flask application! This project is based on the IBM course "Developing AI Applications with Python and Flask". You can find the course on Coursera [here](https://www.coursera.org/learn/python-project-for-ai-application-development).
 
+![image](https://github.com/user-attachments/assets/b90b81ba-8e65-4d79-b98d-e3ab9c45ec12)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
