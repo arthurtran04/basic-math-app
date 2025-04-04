@@ -9,3 +9,11 @@ def subtraction(a, b):
 def multiplication(a, b):
     result = a * b
     return result
+
+def division(a, b):
+    result = a / b
+    return result
+
+def modulus(a, b):
+    result = a % b
+    return result
