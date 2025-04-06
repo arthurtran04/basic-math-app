@@ -29,6 +29,7 @@ Basic-Math-App/
 │   └── index.html
 ├── app.py
 ├── requirements.txt
+├── LICENSE
 └── README.md
 ```
 
