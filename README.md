@@ -7,10 +7,30 @@ This repository is a simple web application built with Flask that performs basic
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Project Structure](#project-structure)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+
+## Project Structure
+
+```
+Basic-Math-App/
+├── Maths/
+│   ├── __init__.py
+│   ├── mathematics.py
+│   └── __pycache__/
+│       ├── __init__.cpython-312.pyc
+│       └── mathematics.cpython-312.pyc
+├── static/
+│   └── script.js
+├── templates/
+│   └── index.html
+├── app.py
+├── requirements.txt
+└── README.md
+```
 
 ## Features
 
