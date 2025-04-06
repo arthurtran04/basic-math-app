@@ -39,8 +39,8 @@ To run this project locally, open the Terminal and follow these steps:
 To start the Flask application, run the `cd` command to change the directory to `Basic-Math-App` and run the `app.py` file:
 
    ```bash
-   cd ~/<basic-math-app-full-path>
-   python app.py
+   cd Basic-Math-App
+   python3.12 app.py
    ```
 This application will run locally at `http://127.0.0.1:5000`:
 
