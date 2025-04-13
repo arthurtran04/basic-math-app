@@ -7,11 +7,17 @@ This repository is a simple web application built with Flask that performs basic
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Prerequirements](#prerequirements)
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+
+## Prerequirements
+
+![Python 3.7](https://img.shields.io/badge/Python-3.7-blue) or above</br>
+[Download here](https://www.python.org/downloads)
 
 ## Project Structure
 
@@ -50,6 +56,8 @@ To run this project locally, open the Terminal and follow these steps:
 5. Install the required dependencies:
 
     ```bash
+    python -m venv venv
+    source venv/bin/activate 
     pip install -r requirements.txt
     ```
 
