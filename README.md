@@ -16,8 +16,7 @@ This repository is a simple web application built with Flask that performs basic
 
 ## Prerequirements
 
-![Python 3.7](https://img.shields.io/badge/Python-3.7-blue) or above</br>
-[Download here](https://www.python.org/downloads)
+- ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue) or above: [Download here](https://www.python.org/downloads)
 
 ## Project Structure
 
