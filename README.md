@@ -58,7 +58,7 @@ To install this project, open your Terminal and follow these steps:
     cd ./Basic-Math-App
     ```
     
-3. Create a Python virtual environment and install the required dependencies:
+3. Create a Python virtual environment `venv` and install the required dependencies:
 
     ```bash
     python -m venv venv
