@@ -41,6 +41,7 @@ Basic-Math-App/
 - Simple Flask web application for basic math
 - Basic routing
 - Basic HTML, JavaScript and Bootstrap
+- Using Pylint for code analysis
 
 ## Installation
 
