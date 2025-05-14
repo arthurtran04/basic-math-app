@@ -21,7 +21,7 @@ This repository is a simple web application built with Flask that performs basic
 ## Project Structure
 
 ```
-Basic-Math-App/
+basic-aath-app/
 ├── Maths/
 │   ├── __init__.py
 │   └── mathematics.py
@@ -50,13 +50,13 @@ To install this project, open your Terminal and follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/arthurtran04/Basic-Math-App.git
+    git clone https://github.com/arthurtran04/basic-math-app.git
     ```
 
-2. Run the `cd` command to change the directory to `Basic-Math-App`:
+2. Run the `cd` command to change the directory to `basic-math-app`:
 
     ```bash
-    cd "$(find . -type d -name "Basic-Math-App")"
+    cd "$(find . -type d -name "basic-math-app")"
     ```
     
 3. Create a Python virtual environment `venv` and install the required dependencies:
